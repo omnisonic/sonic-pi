@@ -1,11 +1,11 @@
-cajA = "/Users/omnisonic/Music/MyLoops/cajon_riff_146bmp_8bar_14Jan2018.wav"
-cajB = "/Users/omnisonic/Music/MyLoops/cajon_riff_146bmp_4bar_14Jan2019.wav"
-CajKick = "/Users/omnisonic/Music/MyLoops/cajon_kick_146bmp_8bar_14Jan2018.wav"
-BrushA = "/Users/omnisonic/Music/MyLoops/brush_loop_146bmp_16bar_14Jan2019.wav"
-Baldwin = "/Users/omnisonic/Documents/Cloud Drive/Music Projects/Sonic Pi/Baldwin_midside_flac/"
-Tabla = "/Users/omnisonic/Music/MyLoops/Tabla_146bmp_16bar_14Jan2018.wav"
+cajA = "/Users/omnisonic/Documents/code/sonic_pi/myloops/cajon_riff_146bmp_8bar_14Jan2018.wav"
+cajB = "/Users/omnisonic/Documents/code/sonic_pi/myloops/cajon_riff_146bmp_4bar_14Jan2019.wav"
+CajKick = "/Users/omnisonic/Documents/code/sonic_pi/myloops/cajon_kick_146bmp_8bar_14Jan2018.wav"
+BrushA = "/Users/omnisonic/Documents/code/sonic_pi/myloops/brush_loop_146bmp_16bar_14Jan2019.wav"
+Baldwin = "/Users/omnisonic/Documents/code/sonic_pi/Baldwin/"
+Tabla = "/Users/omnisonic/Documents/code/sonic_pi/myloops/Tabla_146bmp_16bar_14Jan2018.wav"
 
-GuitArp = "/Users/omnisonic/Music/MyLoops/Arpeggio_Em-Fmaj_146bmp_4bar_14Jan2018.wav"
+GuitArp = "/Users/omnisonic/Documents/code/sonic_pi/myloops/Arpeggio_Em-Fmaj_146bmp_4bar_14Jan2018.wav"
 
 
 use_bpm 146

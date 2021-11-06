@@ -1,4 +1,4 @@
-Baldwin = "/Users/omnisonic/Documents/Google Drive GuitarByJohn/Music Projects/Sonic Pi/Baldwin_midside_flac/"
+Baldwin = "/Users/omnisonic/Documents/code/sonic_pi/Baldwin/
 #use_bpm 100
 #with_fx :reverb do
 
