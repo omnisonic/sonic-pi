@@ -1,0 +1,10 @@
+##exersize in random notes loop nov.26 2018
+
+live_loop :random_riff do
+  use_random_seed rrand_i(0, 9000)
+  2.times do
+    play rrand_i(30, 90), release: 0.125
+    sleep 0.125
+  end
+end
+

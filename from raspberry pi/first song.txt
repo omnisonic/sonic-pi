@@ -1,0 +1,10 @@
+live_loop :my_loop2 do
+  
+  play_pattern_timed scale(:c5, :major_pentatonic), 0.25, release: 0.125
+  sleep 0.25
+  
+  play_pattern_timed scale(:c6, :major_pentatonic), 0.25, release: 0.25
+  sleep 0.25
+  
+end
+

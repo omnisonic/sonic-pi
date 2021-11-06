@@ -1,0 +1,27 @@
+live_loop :my_loop do
+  
+  play choose(scale(:c4, :major))
+  sleep 1
+  play :c4, amp: 1
+  sleep 1
+  play :c5, amp: 1
+  sleep 1
+  play choose(chord(:c6,:major7))
+  sleep 1
+  play choose(scale(:c5,:major))
+end
+
+
+live_loop :my_loop3 do
+  play choose(chord(:c3, :major))
+  sleep 0.25
+  play choose(chord(:c2, :major))
+end
+
+live_loop :my_loop5 do
+  #with_fx :echo, reps: 1 do
+  sample :drum_heavy_kick, amp: 2
+  sleep 1
+  sample :drum_snare_hard, amp: 0.6
+  sleep 1
+end
